@@ -1,11 +1,11 @@
 ## Hey there! I'm Hendskyy
 
 ### About Me
-I am Currently Working as Freelance Frontend Developer.\
-I like to explore new technologies and develop web solutions and quick hacks.\
-I'm currently studying Computer Science and Information Technology at Dian Nuswantoro University.\
-I'm on track for learning more about Web3, Python, & Laravel.\
-In my free time, I pursue Video Editing and Gaming as hobbies/side hustles.
+- I am Currently Working as Freelance Frontend Developer.\
+- I like to explore new technologies and develop web solutions and quick hacks.\
+- I'm currently studying Computer Science and Information Technology at Dian Nuswantoro University.\
+- I'm on track for learning more about Web3, Python, & Laravel.\
+- In my free time, I pursue Video Editing and Gaming as hobbies/side hustles.
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
