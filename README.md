@@ -54,9 +54,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hxndsky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagussuryamahendra)
 
-### That's How Commits move ...
-<div align="center">
-  <a href="https://github.com/hxndsky">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
+</p>
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=hxndsky&style=plastic&color=blue" alt = "Profile Views"/>
+</p>
