@@ -1,7 +1,7 @@
 ## Hey there! I'm Hendskyy
 
 ### About Me
-- I am Currently Working as Freelance Frontend Developer.
+- I am currently working as Freelance Frontend Developer.
 - I like to explore new technologies and develop web solutions and quick hacks.
 - I'm currently studying Computer Science and Information Technology at Dian Nuswantoro University.
 - I'm on track for learning more about Laravel, Web3, & Python.
@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Design
@@ -44,7 +43,6 @@
 
 
 ### Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WPpjQa4vhA)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxndsky)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hxndsky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagussuryamahendra)
