@@ -41,6 +41,8 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/WPpjQa4vhA)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hxndsky)
 
-[![](https://visitcount.itsvg.in/api?id=Hxndsky&icon=2&color=9)](https://visitcount.itsvg.in)
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=hxndsky&color=56BCD9" alt = "Profile Views"/>
+</p>
 </samp>
 </details>
