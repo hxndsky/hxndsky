@@ -9,6 +9,8 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
 
 
+I'm on track for learning more about Web3, & Python. 
+
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://skillicons.dev)
 
