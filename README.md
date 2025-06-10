@@ -10,10 +10,10 @@
 
 
 ### About Me
-- I am currently working as Freelance Frontend Developer.
-- I'm currently studying Computer Science and Information Technology at Dian Nuswantoro University.
-- I'm on track for learning more about Web3, & Python.
-- In my free time, I pursue Video Editing and Gaming as hobbies/side hustles.
+I am currently working as Freelance Frontend Developer.
+I'm currently studying Computer Science and Information Technology at Dian Nuswantoro University.
+I'm on track for learning more about Web3, & Python.
+In my free time, I pursue Video Editing and Gaming as hobbies/side hustles.
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://skillicons.dev)
