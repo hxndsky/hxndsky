@@ -1,15 +1,12 @@
-  <p align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"> 
 </p>
 <details align="center">
 <summary> <b> <samp> Curious? </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">W E L C O M E !</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
-
-
-I'm on track for learning more about Web3, & Python. 
+I'm on track for learning more about Laravel, Web3, & Python.
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://skillicons.dev)
