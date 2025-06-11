@@ -20,12 +20,11 @@ I'm on track for learning more about Web3, & Python.
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hxndsky&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/>
   </a>
   <a href="https://github.com/hxndsky">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxndsky&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxndsky&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Hxndsky&theme=react&hide_border=true"/>
+<a href="https://github.com/hxndsky">
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=hxndsky&theme=react&hide_border=true"/>
+  </a>
 </p>
 
 
