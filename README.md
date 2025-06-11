@@ -11,7 +11,7 @@ I'm on track for learning more about Web3, & Python.
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://skillicons.dev)
 
-### Version Controll & Tools 
+### Version Control & Tools 
 [![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://skillicons.dev)
 
 ### GitHub Analytics
