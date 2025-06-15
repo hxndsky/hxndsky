@@ -9,24 +9,10 @@
 I'm on track for learning more about Web3, & Python.
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,laravel,tailwind,bootstrap,mysql)](https://github.com/hxndsky)
 
 ### Version Control & Tools 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://skillicons.dev)
-
-### GitHub Analytics
-<p align="center">
-  <a href="https://github.com/hxndsky">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hxndsky&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/>
-  </a>
-  <a href="https://github.com/hxndsky">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxndsky&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
-<a href="https://github.com/hxndsky">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=hxndsky&theme=react&hide_border=true"/>
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion,github,git,figma,ae,ps)](https://github.com/hxndsky)
 
 ### Connect with Me
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/hxndsky)
